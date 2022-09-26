@@ -1,0 +1,37 @@
+body{
+  min-width: 1224px;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'inter', 'sans-serif';
+  background: #F3F5FC;
+}
+
+.logo {
+ padding-left: 150px;
+ padding-top: 50px;
+}
+
+.sublinhado{
+  display: flex;
+}
+
+.desenharLinhas{
+  border-bottom: solid 4px #0A3871;
+  width: 30px;
+  margin: 10px;
+}
+.btn-inicial {
+  width: 317px;
+  height: 105px;
+  color: #ffffff;
+  background: #0a3871;
+  border-color: #0a3871;
+  border-radius: 24px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 500px;
+  font-size: 30px;
+}
